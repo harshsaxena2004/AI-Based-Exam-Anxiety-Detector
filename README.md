@@ -12,5 +12,6 @@ This project detects the anxiety level of students during exams using simple AI 
 
 ## Author
 
-Harsh Saxena
+Harsh Saxena,
 Akshat Tahalani
+
