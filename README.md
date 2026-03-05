@@ -13,4 +13,4 @@ This project detects exam anxiety using NLP and BERT.
 
 ## Author
 Harsh Saxena
-Akshat Tahalani
+
