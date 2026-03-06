@@ -1,6 +1,10 @@
-transformers
-torch
+numpy 
 pandas
-numpy
-flask
+matplotlib
 scikit-learn
+seaborn
+torch
+transformers
+streamlit
+nltk
+tqdm
